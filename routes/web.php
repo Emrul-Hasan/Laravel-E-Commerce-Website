@@ -31,7 +31,7 @@ use Illuminate\Support\Facades\Route;
 Route::prefix('')->group(function(){
 
     // Route::get('/', [HomeController::class, 'landingPage'])->name('landingPage');
-    Route::get('/home', [HomeController::class, 'home'])->name('home');
+    Route::get('/', [HomeController::class, 'home'])->name('home');
     Route::get('/about',[HomeController::class, 'about'])->name('about');
     Route::get('/shop', [HomeController::class, 'shopPage'])->name('shop.page');
     Route::get('/single-product/{product_slug}', [HomeController::class, 'productDetails'])->name('productdetail.page');
