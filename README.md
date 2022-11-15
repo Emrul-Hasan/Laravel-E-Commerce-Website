@@ -35,7 +35,7 @@ Admin can add coupons for discounts up to a certain time if he wants
 
 ### User Role: Customer 
 <!-- Features: -->
-* Home page slider with the shop page
+*** Home page slider with the shop page ***
 * Show all category lists on the home page
 * Show the best seller’s product on the home page
 * Show the latest product on the home page
