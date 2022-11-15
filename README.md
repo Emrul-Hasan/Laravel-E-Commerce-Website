@@ -4,34 +4,37 @@
 
 ### User Role: Admin
 <!-- ## Features:  -->
-1.Admin dashboard: Show Analytics Report   
-Total Earning
-Orders
-Total Product Category
-Total Products
-Total Register User
-Total Number of Comments
-Year-wise order list info with a graphical view
-2.	Category List Table: 
-Show product category list with details     
-Delete, Update, or new category options available
+***1.Admin dashboard: Show Analytics Report***
+* Total Earning
+* All Orders
+* Total Product Category
+* Total Products
+* Total Register User
+* Total Number of Comments
+* Year-wise order list info with a graphical view
 
-3.	Product List Table:
-Show product list with details     
-Delete, Update, or new product options available
+***2.Category List Table:***
+* Show product category list with details     
+* Delete, Update, or new category options available
 
-4.	Order Table:   
-Show order details with customers’ details
-Show billing details with the customer order list
-5.	Customer Table:                           
-Show all registered customers’ details
-6.	Testimonial List Table:                
-Show all comments with customer information
-7.	Coupon list Table:   
+***3.Product List Table:***
+* Show product list with details     
+* Delete, Update, or new product options available
+
+***4.Order Table:***  
+* Show order details with customers’ details
+* Show billing details with the customer order list
+
+***5.Customer Table:***                        
+* Show all registered customers’ details
+
+***6.Testimonial List Table:***             
+* Show all comments with customer information
+
+***7.Coupon list Table:***
 Admin can add coupons for discounts up to a certain time if he wants
 
-
-User Role: Customer 
+### User Role: Customer 
 Features:
 
 1.	Home page slider with the shop page
