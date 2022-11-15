@@ -1,5 +1,4 @@
 # Fitness E-commerce Website
-
 ## It is a fully dynamic website that will be controlled by the admin.
 
 ### User Role: Admin
@@ -35,20 +34,19 @@
 Admin can add coupons for discounts up to a certain time if he wants
 
 ### User Role: Customer 
-Features:
-
-1.	Home page slider with the shop page
-2.	Show all category lists on the home page
-3.	Show the best seller’s product on the home page
-4.	Show the latest product on the home page
-5.	Show client comments on the home page
-6.	In the about page user can show company details
-7.	In the shop page customers can category-wise product list
-8.	In the blog page customer show many blogs on a particular product 
-9.	Customer show product details with product description, FAQ, and review of the particular product
-10.	If a customer wants to order a product, he must log in
-11.	If the customer is not registered, registration must be done with the required information
-12.	A verified registered customer can add products to the card page
-13.	If there is a discount coupon, the customer can add it to the card page
-14.	After adding the product to the card, the customer can complete the order by entering the required information on the check-out page.
+<!-- Features: -->
+* Home page slider with the shop page
+* Show all category lists on the home page
+* Show the best seller’s product on the home page
+* Show the latest product on the home page
+* Show client comments on the home page
+* In the about page user can show company details
+* In the shop page customers can category-wise product list
+* In the blog page customer show many blogs on a particular product 
+* Customer show product details with product description, FAQ, and review of the particular product
+* If a customer wants to order a product, he must log in
+* If the customer is not registered, registration must be done with the required information
+* A verified registered customer can add products to the card page
+* If there is a discount coupon, the customer can add it to the card page
+* After adding the product to the card, the customer can complete the order by entering the required information on the check-out page.
 
