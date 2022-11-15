@@ -31,7 +31,7 @@
 * Show all comments with customer information
 
 ***7.Coupon list Table:***
-Admin can add coupons for discounts up to a certain time if he wants
+* Admin can add coupons for discounts up to a certain time if he wants
 
 ### User Role: Customer 
 <!-- Features: -->
